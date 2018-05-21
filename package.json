@@ -1,0 +1,17 @@
+{
+  "name": "@kurosame/tslint-config-vue",
+  "version": "1.0.0",
+  "description": "TSLint config for Vue.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurosame/tslint-config-vue.git"
+  },
+  "keywords": ["kurosame", "tslint", "config", "vue"],
+  "author": "kurosame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurosame/tslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/kurosame/tslint-config-vue#readme"
+}
