@@ -1,4 +1,4 @@
-# tslint-config-vue
+# TSLint Config Vue
 
 ## Installation
 
